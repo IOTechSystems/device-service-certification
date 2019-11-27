@@ -1,0 +1,3 @@
+[submodule "edgex-taf"]
+	path = edgex-taf
+	url = git@github.com:edgexfoundry/edgex-taf.git
